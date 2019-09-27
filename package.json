@@ -1,0 +1,17 @@
+{
+    "name": "lab1",
+    "version": "1.0.0",
+    "description": "Information System Security Lab 1",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Valentyn Shapoval",
+    "license": "MIT",
+    "dependencies": {
+        "electron": "^6.0.10"
+    },
+    "devDependencies": {
+        "eslint": "^6.4.0"
+    }
+}
